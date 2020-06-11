@@ -11,7 +11,6 @@ h1 {
     position: absolute;
     top: 90%;
     left: 50%;
-    transform: translate(-50%, -50%);
     font-family: "tahoma";
     color:rgb(255, 255, 255) ;
 }
