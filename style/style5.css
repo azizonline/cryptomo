@@ -1,0 +1,27 @@
+html, body {
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ height: 100vh;
+ font-family: "Monument Extended";
+ background: #000000;
+}
+
+body{
+margin:0px;
+padding:0px;
+}
+
+.crypt {
+width: 1000px;
+top: 26%;
+position: absolute;
+left: 10%;
+
+}
+.sike {
+ width: 150px;
+ top: 80%;
+ position: absolute;
+ left: 43%;
+}
